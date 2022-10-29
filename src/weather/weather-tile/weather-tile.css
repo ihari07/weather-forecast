@@ -1,0 +1,8 @@
+.city-tile-container {
+    width: 150px;
+    height: 300px;
+    background-color: lightskyblue;
+    float: left;
+    margin: 10px;
+  }
+  
